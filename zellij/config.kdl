@@ -1,0 +1,3 @@
+theme "noctalia"
+default_layout "compact"
+pane_frames false
